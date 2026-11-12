@@ -38,7 +38,7 @@ This project demonstrates a basic dynamic web page built using HTML, CSS, and Ja
 - Responsive design is included for phones and tablets.
 
 ## How to Use
-1. Open the `Dynamic_page.html` file in a browser.
+1. Open the `index.html` file in a browser.
 2. Scroll through the content and notice the active section highlighting.
 3. Try clicking a nav item to smoothly scroll to that section.
 4. Submit a comment at the bottom and see it added instantly.
